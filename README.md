@@ -1,6 +1,7 @@
 <!-- <div align="center"> -->
 
 <div style="display: flex; align-items: center; justify-content: center;">
+<div style="display: flex; align-items: center; justify-content: center;">
   <div align="center" style="display: flex;"><img src="https://media.tenor.com/hW_mTYy_zS4AAAAj/gojo-satoru.gif" height="20%" width="20%"/></div>
   <div align="center" style="margin-left: 20px;">
     <h2>< Hello, World! /> <img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif" height="5%" width="5%"/></h2>
@@ -9,7 +10,7 @@
     <img src="https://img.shields.io/badge/Portfólio-%23c1da03.svg?&style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfólio" style="margin-bottom: 5px;">
 </a>
   </div>
-</div>
+</div></div>
 
 <details>
 <summary><b>Skills</b></summary>
