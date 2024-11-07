@@ -1,29 +1,81 @@
-### Hi there 👋
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://media.tenor.com/hW_mTYy_zS4AAAAj/gojo-satoru.gif" height="20%" width="20%"/>
+  <div style="margin-left: 20px;">
+    <h2>< Hello, World! /> <img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif" height="5%" width="5%"/></h2>
+    <h6>Technology enthusiast, studying some <br>programming languages, acquiring <br>experience and ability to work in <br>the back-end and front-ent areas.</h6> 
+  <a href="https://pedrowpy.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-%23c1da03.svg?&style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfólio" style="margin-bottom: 5px;">
+</a>
+  </div>
+</div>
 
-- 🔭 I’m currently working at <a href="https://www.canaverde.com.br/" target="_blank">Usina Uberaba S/A</a> as Auxiliar Administrative;
-- ⚡ Technology enthusiast, studying some programming languages, acquiring experience and ability to work in the back-end and front-ent areas;
-- 🎒 Graduating at University of Uberaba in Information Systems course (2024 - 2028).
+<details>
+<summary><b>Skills</b></summary>
+<div>
 
-### You can find me at:
+[<center>![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,cs,git,github)](https://skillicons.dev)</center>
 
-<p>
+</div>
+   
+<summary><b>Learning</b></summary>
+<div>
+  
+[<center>![Learning](https://skillicons.dev/icons?i=c,py)](https://skillicons.dev)</center>
+  
+</div>
+</details>
+
+</details>
+<details>
+  <summary><b>Motto</b></summary>
+<div>
+
+- **"aeternum, realis."**
+
+</div>
+</details>
+
+## 🍿 $chill
+
+<h6 align="center">
+  <img src="https://moe-counter.glitch.me/get/@pedrowpy?theme=rule34"  />
+</h6 <br>
+
+<h6 align="center">
+  <a href="https://github.com/pedrowpy" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" style="margin-bottom: 5px;" /></a>
+ <a href="https://instagram.com/pedrowpy">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 5px;"/></a>
   <a href="https://www.linkedin.com/in/pedrowpy/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Pedro Fonseca LinkedIn Profile" height="30" width="30">
-  </a>
-  &nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" style="margin-bottom: 5px;" />
+</a>
+  <a href="mailto:pedro16hf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin-bottom: 5px;"/></a>
 
-  <a  href="https://www.instagram.com/pedrowpy/" target="_blank">
-    <img src="https://cdn.icon-icons.com/icons2/836/PNG/64/Instagram_icon-icons.com_66804.png" alt="Pedro Fonseca" height="30" width="30">
-  </a>
-  &nbsp;
+</h6>
 
-  <a  href="mailto:pedro16hf@gmail.com" target="_blank">
-    <img src="https://i.pinimg.com/originals/8f/c3/7b/8fc37b74b608a622588fbaa361485f32.png" alt="Pedro Fonseca height="30" width="30">
-</p>
+##
+
+<details>
+  <summary><b>📊 My Github Stats</b></summary>
+
+<h6 align="center">
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedrowpy&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0d1117" alt="Pedro Fonseca Github Stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrowpy&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrowpy&bg_color=000000&color=ffffff&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)">
+
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrowpy&bg_color=000000&color=ffffff&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</h6>
+</details>
+
+<details>
+  <summary><b>🏆 GitHub Trophies</b></summary>
+<br>
+<div align="center">
+  
+![](https://github-profile-trophy.vercel.app/?username=pedrowpy&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+
+</div>
+</details>
