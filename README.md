@@ -1,4 +1,5 @@
-<div align="center">
+<!-- <div align="center"> -->
+
 <div style="display: flex; align-items: center; justify-content: center;">
   <img src="https://media.tenor.com/hW_mTYy_zS4AAAAj/gojo-satoru.gif" height="20%" width="20%"/>
   <div style="margin-left: 20px;">
@@ -27,14 +28,7 @@
 </details>
 
 </details>
-<details>
-  <summary><b>Motto</b></summary>
-<div>
 
-- **"aeternum, realis."**
-
-</div>
-</details>
 
 ## 🍿 $chill
 
