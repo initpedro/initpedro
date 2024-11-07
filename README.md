@@ -15,14 +15,14 @@
 <summary><b>Skills</b></summary>
 <div>
 
-[<center>![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,cs,git,github)](https://skillicons.dev)</center>
+<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,sass,cs,git,github"](https://skillicons.dev)</div>
 
 </div>
    
 <summary><b>Learning</b></summary>
 <div>
   
-[<center>![Learning](https://skillicons.dev/icons?i=c,py)](https://skillicons.dev)</center>
+<div align="center"><img src="https://skillicons.dev/icons?i=c,py"](https://skillicons.dev)</center></center>
   
 </div>
 </details>
