@@ -6,7 +6,7 @@
     <h2>< Hello, World! /> <img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif" height="5%" width="5%"/></h2>
     <h6>Technology enthusiast, studying some <br>programming languages, acquiring <br>experience and ability to work in <br>the back-end and front-ent areas.</h6> 
   <a href="https://pedrowpy.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-%23c1da03.svg?&style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfólio" style="margin-bottom: 5px;">
+    <img src="https://img.shields.io/badge/Portfólio-%23c1da03.svg?&style=for-the-badge&logo=portfolio&logoColor=white" target="_blank" alt="Portfólio" style="margin-bottom: 5px;">
 </a>
   </div>
 </div>
