@@ -1,3 +1,4 @@
+<div align="center">
 <div style="display: flex; align-items: center; justify-content: center;">
   <img src="https://media.tenor.com/hW_mTYy_zS4AAAAj/gojo-satoru.gif" height="20%" width="20%"/>
   <div style="margin-left: 20px;">
@@ -52,6 +53,7 @@
   <a href="mailto:pedro16hf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin-bottom: 5px;"/></a>
 
 </h6>
+</div>
 
 ##
 
