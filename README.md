@@ -1,7 +1,7 @@
 <!-- <div align="center"> -->
 
 <div style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://media.tenor.com/hW_mTYy_zS4AAAAj/gojo-satoru.gif" height="20%" width="20%"/>
+  <div align="center" style="display: flex;><img src="https://media.tenor.com/hW_mTYy_zS4AAAAj/gojo-satoru.gif" height="20%" width="20%"/></div>
   <div align="center" style="margin-left: 20px;">
     <h2>< Hello, World! /> <img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif" height="5%" width="5%"/></h2>
     <h6>Technology enthusiast, studying some <br>programming languages, acquiring <br>experience and ability to work in <br>the back-end and front-ent areas.</h6> 
