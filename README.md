@@ -4,8 +4,8 @@
   <img src="https://media1.tenor.com/m/w2bmnuwHAJ4AAAAd/killua-hunter-x-hunter.gif" height="20%" width="20%"/>
   <div style="display: flex;">
     <h2>< Hello, World! /> <img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif" height="5%" width="5%"/></h2>
-    <h6>Technology enthusiast, studying some programming languages,<br> acquiring experience and ability to work in the back-end and front-ent areas.</h6> 
-    <h6>I’m currently working at <br><a href="https://www.canaverde.com.br/" target="_blank">Usina Uberaba S/A</a> as Auxiliar Administrative;</h6>
+    <h6>Technology enthusiast, studying some programming languages,<br> acquiring experience and ability to work in the back-end and front-ent areas;<br>Graduating at University of Uberaba in Information Systems course (2024 - 2028).</h6> 
+    <h6>I’m currently working at <br><a href="https://www.canaverde.com.br/" target="_blank">Usina Uberaba S/A</a> as Auxiliar Administrative;<br>Looking for internship.</h6>
   <a href="https://pedrowpy.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-%23c1da03.svg?&style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfólio" style="margin-bottom: 5px;"></a>
   </div>
