@@ -15,14 +15,14 @@
 <summary><b>Skills</b></summary>
 <div>
 
-<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,sass,cs,git,github"](https://skillicons.dev)</div>
+<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,sass,c,cs,dotnet,git,github,mysql,py"](https://skillicons.dev)</div>
 
 </div>
    
-<summary><b>Learning</b></summary>
+<summary><b>System</b></summary>
 <div>
   
-<div align="center"><img src="https://skillicons.dev/icons?i=c,py"](https://skillicons.dev)</center></center>
+<div align="center"><img src="https://skillicons.dev/icons?i=visualstudio,vscode,windows,discord"](https://skillicons.dev)</center></center>
   
 </div>
 </details>
