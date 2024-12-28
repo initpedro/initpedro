@@ -7,7 +7,7 @@
     <h6>Technology enthusiast, studying some programming languages,<br> acquiring experience and ability to work in the back-end and front-ent areas;<br>Graduating at University of Uberaba in Information Systems course (2024 - 2028).</h6> 
     <h6>I’m currently working at <a href="https://www.canaverde.com.br/" target="_blank">Usina Uberaba S/A</a> as Auxiliar Administrative;<br>Looking for internship.</h6>
   <a href="https://pedrowpy.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-%23c1da03.svg?&style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfólio" style="margin-bottom: 5px;"></a> <br><br>
+    <img src="https://img.shields.io/badge/Portfólio-%23c1da03.svg?&style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfólio" style="margin-bottom: 5px;"></a> <br>
 <img style="width: 400px; height: 195px;" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrowpy&theme=dark&hide_border=true">
 
 
