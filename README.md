@@ -77,7 +77,7 @@
 </div>
 </details>
 
-## 🎵 $playing
+## 🎵 $listening
 
 <div align="center"> <img width="20%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=dmje5io9mm5mj103jf2d684v0&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=c1da03")>
 </div>
