@@ -59,10 +59,11 @@
   <summary><b>📊 My Github Stats</b></summary>
 
 <div align="center">  
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedrowpy&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0d1117" alt="Pedro Fonseca Github Stats" /> 
-  <img width="32%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrowpy&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
+<a href="https://github.com/pedrowpy">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedrowpy&show_icons=true&theme=csharp&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0d1117" alt="Pedro Fonseca Github Stats" /> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrowpy&show_icons=true&theme=csharp&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
  <img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=pedrowpy&bg_color=000000&color=ffffff&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)">
-
+</a>
 </div>
 </h6>
 </details>
