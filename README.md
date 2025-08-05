@@ -19,7 +19,7 @@
 <summary><b>Skills</b></summary>
 <div>
 
-<div align="center"><img src="https://skillicons.dev/icons?i=html,css,tailwind,,ts,js,sass,react,java,c,cs,dotnet,git,github,mysql,sqlite,py,aws,docker"](https://skillicons.dev)</div>
+<div align="center"><img src="https://skillicons.dev/icons?i=html,css,tailwind,ts,js,sass,react,java,c,cs,dotnet,git,github,mysql,sqlite,py,aws,docker"](https://skillicons.dev)</div>
 
 </div>
    
