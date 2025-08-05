@@ -19,14 +19,14 @@
 <summary><b>Skills</b></summary>
 <div>
 
-<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,sass,c,cs,dotnet,git,github,mysql,py"](https://skillicons.dev)</div>
+<div align="center"><img src="https://skillicons.dev/icons?i=html,css,tailwind,,ts,js,sass,react,java,c,cs,dotnet,git,github,mysql,sqlite,py,aws,docker"](https://skillicons.dev)</div>
 
 </div>
    
 <summary><b>System</b></summary>
 <div>
   
-<div align="center"><img src="https://skillicons.dev/icons?i=visualstudio,vscode,windows,discord"](https://skillicons.dev)</center></center>
+<div align="center"><img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,idea,windows,discord,linux,linkedin,vercel,netlify,notion"](https://skillicons.dev)</center></center>
   
 </div>
 </details>
